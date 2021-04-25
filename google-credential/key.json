@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telkom-project-298810",
+  "private_key_id": "72de278da5c0dea2df4f0092f48c487e926d3897",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdjE1y8zZB6jB+\n9a7uy62B/cA3kL5ZnW1xmS+PK/vlBKVxn3DopfgNojA+YuxkYUZtCbOxazTljHbx\nRl8r5sB788dTp+PJPxFqBWtdQMNcShF5gRZFBPz9hNof9NfedHD68pxNtDHJkuvv\nwA20DekhxkQavpj3MSYgAhiVtph/HQXd478Jxqtyeh7t00pmqIrNzG94NQ7oDvQu\nlbifSY/VR4IQkt6ApvBLyJkslYgzFR+aEnL0kXv1go+eUYuTBGFAtHD5taf82+HS\nZWa0Mw0go0uatGn4rkO62f6Dxy+SpdigoaotHzfQ9SOnvtterMfKCnheoLzLQwaV\nOots9UZHAgMBAAECggEAFXEk9R6f3jJIaPPl7zD279FQygVFaaPzDzRdu37CHYYH\nwx7vd7zJwfwJV524YPYJ3GISKkuEw5YG1E7UxYl1kKmP3ZiuqEVlLecstHT2U2zM\naH+QrwkOuTSjQxuDIaxlsOFL37i0ZtzEM/XY/az+UWlVzGbXpCOgG9Hyx4P0GhKA\nBe7zGwF5eCHsMzircdSVngHxhNJejdDxDUzXhzrBtm3k4Krloy5MwmoOiFcuUYn6\n76dmdMLfBDZQ8CisZi+5D2CdI7WYXidAcxRwEX1WKvi7tyR3ldWcfFTzSLs79ixr\nYKFPI7By31P62Kf3o/CoXOkNOqvbqi5at1edX767gQKBgQD7GBp4Xuz1IE2AR3VI\nh3Y47xv+HsPIM4ETHeLdJrpkjvq/RtF4ItwR6DdBI2kM8ds+MNmtv7DcMIXwNMRA\nIt9BOR91SrVl8PwyJXVL1YkQc96/PEqa5RdBTWohCi/BMGju90eGnkCAuNvQN/F1\naD+Hzik09sOuiqyMQNV2tXhfgQKBgQDh4GslpA2d58E0/KnKeiA9i24FkcNr7HQl\n3sG+aks0S14VVhkaukY9YB/VBCyD8ZAEf8NS0zf8lqxTfQxcVagotbXbKQBZW6Xy\nRTxylu1SecGN2NN709iRpijW44zzKPwQllWzqlTtvOInHYqrnzIW4XXwZuzKGGNR\nfYdutMeJxwKBgQDMzNYaQ+Kl9NkBvkcNB2AIBA8i8Fjj3A51VzUJCGOTTYN7q/mC\nMXyqJmua95TheAtI6HND4kwQ7IryZzeC0G6kNkFQW8UlBq/M/vxzBBItlzShaj23\npQ+YtdnQZQyaWC/eaVavmDgoRZ8Ub+zDxGm9DQxTJMpqfLVMGD2D+3PZAQKBgQCe\nmLSi+U2WUeOXENEnGhkJHZ1iy7YrURs8e+wNhxTG4yRsVsfJvIEVFylCqGuZOUOl\n5Q+AWE43TJQzCtpi+sHX076c420bUP5z3alTzCVWg6cjsdrMVzL5EXIbcCrHkT9r\nZiNGw5JeWwFv9Y4oct74sdXdtmcMf5M85KbzVHvGgQKBgBuVhvDQTIF/82a5/KvX\nATCxJlMVsZdwuy+RI3wY78zGVOpS/p/Rt4pPKVstv7BTLmkGS+J4IrlVKETT9KZN\nOvRstISUiFLIdE/Luc9cc9Y0YF/aZgHod3NWod2Gj4OsqITD8PqnA5RD/c0D9j8A\nhhCO/+L3LOGi/9vJirb/7q+5\n-----END PRIVATE KEY-----\n",
+  "client_email": "telkom-asr-api@telkom-project-298810.iam.gserviceaccount.com",
+  "client_id": "111419544755296521375",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telkom-asr-api%40telkom-project-298810.iam.gserviceaccount.com"
+}
